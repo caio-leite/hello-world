@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="caioleite",
-    version="1.1.0",
+    version="1.1.1",
     author="caioleite",
     author_email="caioleite@grupoboticario.com.br",
     description="It's pip... with git.",
