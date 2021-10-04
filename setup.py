@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="caio-leite",
+    name="caioleite",
     version="1.0.9",
     author="caioleite",
     author_email="caioleite@grupoboticario.com.br",
