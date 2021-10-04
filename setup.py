@@ -22,7 +22,7 @@ setuptools.setup(
         'numpy==1.21.0',
         'pandas==1.3.0',
         'pandas_gbq==0.15.0',
-        'psycopg2-binary==2.7.7',
+        'psycopg2-binary',
         'pysftp==0.2.9',
         'urllib3==1.24.1',
         'googleads==21.0.0',
