@@ -4,13 +4,13 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="marketinghelpers",
+    name="caio-leite",
     version="1.0.9",
-    author="bernardoplum",
-    author_email="bernardoplum@grupoboticario.com.br",
+    author="caioleite",
+    author_email="caioleite@grupoboticario.com.br",
     description="It's pip... with git.",
     long_description=long_description,
-    url="https://github.com/belezanaweb/marketing-helpers",
+    url="https://github.com/caio-leite/hello-world",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
